@@ -7,5 +7,3 @@ function Person(name) {
   }
 
 }
-
-module.exports = Person;
